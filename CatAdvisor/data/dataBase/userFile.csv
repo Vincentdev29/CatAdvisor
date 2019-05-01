@@ -1,5 +1,5 @@
 id,name,age,poids,jour,mois,annee,qtenourriture,activite,calculated
-0,indy,4,2.9999993,,,,149.99995,non actif,0
+0,indy,8,6.0999966,,,,304.99982,actif,1
 1,marion,9,3.299999,,,,164.99995,actif,1
 2,tara,4,2.0000002,,,,100.000015,actif,0
 3,cleo,14,3.399999,,,,169.99994,actif,0
